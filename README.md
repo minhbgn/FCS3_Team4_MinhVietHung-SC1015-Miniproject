@@ -32,3 +32,10 @@ This is a repository for SC1015 (Introduction to Data Science and Artificial Int
 - Random Forest Classification
 - XGBoost Classification
 - Feature importance
+- Project Collaboration, Github Collaboration
+
+## References
+- https://medium.com/@techynilesh/xgboost-algorithm-explained-in-less-than-5-minutes-b561dcc1ccee
+- https://www.geeksforgeeks.org/random-forest-algorithm-in-machine-learning/
+- https://www.kaggle.com/competitions/playground-series-s4e2/overview
+- https://www.smh.com.au/national/more-fat-people-in-world-than-there-are-starving-study-finds-20060815-gdo6f2.html
