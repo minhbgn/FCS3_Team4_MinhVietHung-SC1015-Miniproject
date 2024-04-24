@@ -24,14 +24,16 @@ This is a repository for SC1015 (Introduction to Data Science and Artificial Int
 3. XGBoost Classification
 
 ## Conclusion
-(A Viet them ho em phan nay)
+- The XGBoost model showed the highest accuracy at 90%, followed by Random Forest at 89%, and Decision Tree at 83%.
+- The high accuracy rates of the models suggest that they could be reliably used in real-world applications
+- Body Mass Index (BMI) is the most significant predictor of obesity level, indicating a strong correlation between BMI and obesity risk.
 
 ## What did we learn?
-(A Viet them ho em ca phan nay nua)
 - Mutual information and Chi-squared test 
 - Multi-class Decision Tree
 - Random Forest Classification
 - XGBoost Classification
+- Cross Validation
 - Feature importance
 - Application of Data Science to Real-life problem, using Data-driven insights
 - Project Collaboration, Github Collaboration
