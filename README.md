@@ -28,11 +28,12 @@ This is a repository for SC1015 (Introduction to Data Science and Artificial Int
 
 ## What did we learn?
 (A Viet them ho em ca phan nay nua)
-- New technique to see the relationship between categorical variables: Mutual information and Chi-squared test
-- Multi-class Decision Tree, different from typical 2-class Decision Tree
+- Mutual information and Chi-squared test 
+- Multi-class Decision Tree
 - Random Forest Classification
 - XGBoost Classification
 - Feature importance
+- Application of Data Science to Real-life problem, using Data-driven insights
 - Project Collaboration, Github Collaboration
 
 ## References
