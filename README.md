@@ -11,6 +11,7 @@ This is a repository for SC1015 (Introduction to Data Science and Artificial Int
 - Dataset: All dataset used in this project
 - Presentation materials: Slides and videos
 - Source code: All the codes used for this project (Final Source codes and Checkpoints)
+- README (This file): Provide an overview of the project
 
 ## Problem Definition
 - Predict the obesity level of a person based on different aspect of their life
